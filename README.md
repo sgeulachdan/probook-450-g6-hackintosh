@@ -1,5 +1,5 @@
 # Probook 450 G6 Hackintosh
-My own opencore EFI Folder for my own laptop
+My own opencore EFI Folder for my own laptop (V2)
 
 # Kexts Used
 WhateverGreen
@@ -11,7 +11,7 @@ AppleALC
 
 
 # Compatible versions
-mojave and catalina, working on big sur, monterey and ventura
+big sur, monterey and ventura
 
 # Not Needed
 USBToolBox (TESTED)
