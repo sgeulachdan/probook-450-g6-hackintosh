@@ -1,8 +1,17 @@
-# probook-450-g6-hackintosh
-basically my lazy opencore efi folder
+# Probook 450 G6 Hackintosh
+My own opencore EFI Folder for my own laptop
 
-# what does it do?
-nothing just use it if you want to
+# Kexts Used
+WhateverGreen
+Lilu
+SuperSMC
+ECEnabler
+VoodooPS2Controller
+AppleALC
 
-# compatible versions
-mojave and catalina for now
+
+# Compatible versions
+mojave and catalina, working on big sur, monterey and ventura
+
+# Not Needed
+USBToolBox (TESTED)
