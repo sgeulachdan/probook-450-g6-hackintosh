@@ -4,7 +4,7 @@ My own opencore EFI Folder for my own laptop
 # Kexts Used
 WhateverGreen
 Lilu
-SuperSMC
+VirtualSMC
 ECEnabler
 VoodooPS2Controller
 AppleALC
@@ -21,3 +21,6 @@ alcid=11
 
 # BIOS Settings
 VRAM = 64MB
+
+# WARNING: DO NOT USE THE DEFAULT SERIAL NUMBER! IT HAS ALREADY BEEN ADOPTED! IT MAY CAUSE ISERVICE ISSUES!
+TO FIX THIS, PLEASE USE THIS GUIDE: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios
