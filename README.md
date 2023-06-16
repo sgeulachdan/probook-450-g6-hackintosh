@@ -11,7 +11,13 @@ AppleALC
 
 
 # Compatible versions
-big sur, monterey and ventura
+big sur, monterey and ventura, Older versions MAY WORK aswell
 
 # Not Needed
 USBToolBox (TESTED)
+
+# Custom Settings
+alcid=11
+
+# BIOS Settings
+VRAM = 64MB
