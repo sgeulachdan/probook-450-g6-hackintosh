@@ -4,7 +4,7 @@ My own opencore EFI Folder for my own laptop (V2)
 # Kexts Used
 WhateverGreen
 Lilu
-SuperSMC
+VirtualSMC
 ECEnabler
 VoodooPS2Controller
 AppleALC
