@@ -15,3 +15,6 @@ mojave and catalina, working on big sur, monterey and ventura
 
 # Not Needed
 USBToolBox (TESTED)
+
+# Custom Settings
+alcid=11
