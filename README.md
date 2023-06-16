@@ -18,3 +18,6 @@ USBToolBox (TESTED)
 
 # Custom Settings
 alcid=11
+
+# BIOS Settings
+VRAM = 64MB
